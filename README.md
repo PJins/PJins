@@ -22,6 +22,6 @@ SUNGKYUNKWAN UNIVERSITY SOFTWARE 22
 
 
 ### Contact
-email : jerry03122p@gmail.com
-github : https://github.com/PJins
-instagram : @not.truetto
+email : <jerry03122p@gmail.com>   
+github : <https://github.com/PJins>   
+instagram : @not.truetto   
