@@ -16,7 +16,7 @@
 - DeepLearning4j
 
 ### Education
-SUNGKYUNKWAN UNIVERSITY SOFTWARE 22
+- **SUNGKYUNKWAN UNIVERSITY**, South Korea   B.S., Software, 2022~
 
 ### Achievements and Certifications
 
