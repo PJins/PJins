@@ -3,6 +3,7 @@
 ### introduction
 
 ### Skills
+> Langauge
 - Python
 - C++
 - C
