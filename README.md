@@ -1,6 +1,6 @@
-# portfolio
+# Portfolio
 
-### introduction
+### Introduction
 
 ### Skills
 > Language
