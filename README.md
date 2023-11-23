@@ -1,5 +1,13 @@
 # portfolio
 
+### introduction
+
+### Skills
+- Python
+- C++
+- C
+- Java
+
 ### Education
 asdfasdf
 
