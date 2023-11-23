@@ -4,18 +4,24 @@
 
 ### Skills
 > Language
-> - Python
-> - C++
-> - C
-> - Java
+- Python
+- C++
+- C
+- Java
+
+> frameworks
+- Tensorflow
+- Keras
+- PyTorch
+- DeepLearning4j
 
 ### Education
-asdfasdf
+SUNGKYUNKWAN UNIVERSITY SOFTWARE 22
 
-### Work Experience
-asdfasdf
-- asdfasd
-- asdfasf
+### Achievements and Certifications
 
-### Projects
-asdfasdf
+
+### Contact
+email : jerry03122p@gmail.com
+github : https://github.com/PJins
+instagram : @not.truetto
