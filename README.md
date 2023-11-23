@@ -1,4 +1,6 @@
 ## Introduction
+Hello, i'm JinSung Park. Bachelor stduent in SKKU South Korea.   
+I'm majoring in Software, and i'm especially interested in Deep Learning, Computer Vision.
 
 ## Skills
 #### Language
