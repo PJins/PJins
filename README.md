@@ -3,13 +3,13 @@
 ### Introduction
 
 ### Skills
-> Language
+#### Language
 - Python
 - C++
 - C
 - Java
 
-> frameworks
+#### frameworks
 - Tensorflow
 - Keras
 - PyTorch
