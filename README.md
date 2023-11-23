@@ -1,8 +1,10 @@
 ## Introduction
+- - -
 Hello, i'm JinSung Park. Bachelor stduent in SKKU South Korea.   
 I'm majoring in Software, and i'm especially interested in Deep Learning, Computer Vision.
 
 ## Skills
+- - -
 #### Language
 - Python
 - C++
@@ -16,6 +18,7 @@ I'm majoring in Software, and i'm especially interested in Deep Learning, Comput
 - DeepLearning4j
 
 ## Education
+- - -
 - **SUNGKYUNKWAN UNIVERSITY**, South Korea   
 B.S., Software, 2022~
 
@@ -23,6 +26,7 @@ B.S., Software, 2022~
 
 
 ## Contact
+- - -
 email : <jerry03122p@gmail.com>   
 github : <https://github.com/PJins>   
 instagram : @not.truetto   
