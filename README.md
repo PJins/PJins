@@ -3,11 +3,11 @@
 ### introduction
 
 ### Skills
-> Langauge
-- Python
-- C++
-- C
-- Java
+> Language
+> - Python
+> - C++
+> - C
+> - Java
 
 ### Education
 asdfasdf
