@@ -1,5 +1,5 @@
-title: JinSung Park
-logo: /assets/img/headshot_circle.jpg
-description: Bachelor Student
-#show_downloads: true
-theme: jekyll-theme-minimal
+title: JinSung Park # this is title. It's a text that goes on top of the picture, so write down my name.
+logo: /assets/img/headshot_circle.jpg # this is logo, my picture.
+description: Bachelor Student # this is text under logo.
+#show_downloads: true # Download source code for this GitHub page.
+theme: jekyll-theme-minimal # theme
